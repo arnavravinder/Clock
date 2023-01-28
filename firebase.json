@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "public",
+    "site":"elegant-timepiece",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
